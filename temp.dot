@@ -1,0 +1,22 @@
+graph G {
+   line0 -- Yao -- Toyoake -- Kokubunji
+   line1 -- Yao -- Osaka -- Amagasaki -- Ashiya -- Kobe -- Akashi -- Kakogawa -- Takasago -- Himeji -- Tatsuno
+   line2 -- Yao -- Sakai -- Izumi -- Izumisano -- Sennan -- Wakayama -- Kainan
+   line3 -- Yao -- Hirakata -- Kameoka -- Nantan -- Ayabe
+   line4 -- Yao -- Shijonawate -- Katano -- Yawata -- Kyoto -- Otsu -- Kusatsu
+   line5 -- Toyoake -- Kiyosu -- Hashima -- Ogaki -- Maibara -- Nagahama -- Tsuruga -- Echizen -- Sabae -- Fukui -- Awara -- Komatsu -- Nonoichi -- Kahoku
+   line6 -- Toyoake -- Seto -- Kani -- Gero
+   line7 -- Toyoake -- Okazaki -- Toyohashi -- Kosai -- Hamamatsu -- Fukuroi
+   line8 -- Toyoake -- Mizunami -- Nakatsugawa -- Iida -- Komagane
+   line9 -- Kokubunji -- Uenohara -- Koshu -- Kai -- Chino
+   line10 -- Kokubunji -- Yamato -- Isehara -- Minamiashigara -- Susono -- Izunokuni
+   line11 -- Kokubunji -- Machida -- Fujisawa -- Yokosuka -- Minamiboso
+   line12 -- Kokubunji -- Sayama -- Higashimatsuyama -- Fukaya -- Maebashi
+   line13 -- Kokubunji -- Asaka -- Satte -- Oyama -- Utsunomiya
+   line14 -- Kokubunji -- Kawaguchi -- Matsudo -- Urayasu -- Sodegaura -- Futtsu
+   line15 -- Kokubunji -- Saitama -- Noda -- Tsukuba -- Ishioka -- Mito
+   line16 -- Kokubunji -- Kawaguchi -- Kashiwa -- Ryugasaki -- Narita -- Sosa
+   line17 -- Kokubunji -- Chichibu -- Saku -- Ueda -- Chikuma -- Nakano -- Myoko
+   line18 -- Toyoake -- Iida -- Okaya -- Azumino -- Chikuma -- Iiyama -- Tokamachi
+   line19 -- Kokubunji -- Numata -- Tokamachi -- Nagaoka -- Gosen
+}
